@@ -1,4 +1,4 @@
-# App built with Airo Builder
+# App built with GD Airo Builder
 
 This app was generated with [Airo Builder](https://airo-builder.godaddy.com/) and pushed
 here from your project. You can keep editing it in Airo Builder, or clone this repository
